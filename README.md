@@ -30,6 +30,6 @@ Voici une sélection de projets qui représentent mes compétences :
 | **[Dashboard d'Analyse de Joueurs de Football][1]**  | Un dashboard interactif complet pour explorer la valeur marchande des joueurs de football.                | **Power BI, DAX**        |
 | **(Bientôt disponible) Analyse Exploratoire (Python)** | Exploration d'un jeu de données pour en extraire des tendances via des visualisations.                    | **Python, Pandas, Seaborn**|
 
-[1]: https://github.com/J-WU1/Analyse-Football-PowerBI  <!-- Mettez ici le lien vers votre dépôt Power BI -->
+[1]: https://github.com/J-WU1/Football-Players-Dashboard  <!-- Mettez ici le lien vers votre dépôt Power BI -->
 
 ---
