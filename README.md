@@ -36,6 +36,6 @@ Voici une sélection de projets qui démontrent ma capacité à utiliser les pri
 
 [1]: https://github.com/J-WU1/Analyse_Netflix_Tableau
 [2]: https://github.com/J-WU1/Analyse-Football-PowerBI
-[3]: https;//github.com/J-WU1/Analyse_Ventes_JeuxVideo_Python
+[3]: https://github.com/J-WU1/Analyse_Ventes_JeuxVideo_Python
 
 ---
