@@ -20,12 +20,15 @@ J'ai développé un ensemble de compétences qui me permettent de couvrir l'ense
 | ✅ Power BI (avec DAX)    | ✅ SQL                                 | ✅ HTML / CSS          |
 |                           | ✅ Jupyter Notebook                    | ✅ Management d'équipe |
 |                           | ✅ C++                                 |                        |
+
 ---
+
 ###  Portfolio Complet
 
 Pour une présentation synthétique et visuelle de mes compétences et de mes réalisations, je vous invite à consulter mon portfolio en ligne :
 
 [![Portfolio](https://img.shields.io/badge/Consulter_mon_Portfolio-E85D04?style=for-the-badge&logo=About.me&logoColor=white)](https://j-wu1.github.io)
+
 ---
 
 ### ✨ Mes Projets Clés
