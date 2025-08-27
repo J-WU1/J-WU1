@@ -25,9 +25,10 @@ J'ai développé un ensemble de compétences qui me permettent de couvrir l'ense
 
 ###  Portfolio Complet
 
-Pour une présentation synthétique et visuelle de mes compétences et de mes réalisations, je vous invite à consulter mon portfolio en ligne :
+Pour une présentation synthétique de mes compétences et réalisations, je vous invite à consulter mon portfolio, disponible en deux formats :
 
-[![Portfolio](https://img.shields.io/badge/Consulter_mon_Portfolio-E85D04?style=for-the-badge&logo=About.me&logoColor=white)](https://j-wu1.github.io)
+[![Consulter le Site Web](https://img.shields.io/badge/Site_Web_Interactif-E85D04?style=for-the-badge&logo=About.me&logoColor=white)](https://j-wu1.github.io)
+[![Télécharger le PDF](https://img.shields.io/badge/Version_PDF-FF5733?style=for-the-badge&logo=Adobe+Acrobat+Reader&logoColor=white)](https://github.com/J-WU1/Portfolio/tree/main)
 
 ---
 
