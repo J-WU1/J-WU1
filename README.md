@@ -28,7 +28,7 @@ J'ai développé un ensemble de compétences qui me permettent de couvrir l'ense
 Pour une présentation synthétique de mes compétences et réalisations, je vous invite à consulter mon portfolio, disponible en deux formats :
 
 [![Consulter le Site Web](https://img.shields.io/badge/Site_Web_Interactif-E85D04?style=for-the-badge&logo=About.me&logoColor=white)](https://j-wu1.github.io)
-[![Voir le Dépôt du Portfolio](https://img.shields.io/badge/Dépôt_GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/J-WU1/Portfolio/tree/main)
+[![Voir le Dépôt du Portfolio](https://img.shields.io/badge/Dépôt_GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/J-WU1/Portfolio/raw/main/Portfolio_Projets_JacquesWu.pdf)
 
 ---
 
