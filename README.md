@@ -30,12 +30,12 @@ Voici une sélection de projets qui démontrent ma capacité à utiliser les pri
 
 | Projet                                             | Description                                                                                             | Technologies Principales |
 |----------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------|
-| **[Dashboard d'Analyse du Catalogue Netflix][1]**  | Un dashboard interactif complet sur Tableau pour explorer les tendances du catalogue Netflix.           | **Tableau**              |
 | **[Dashboard d'Analyse de Joueurs de Football][2]**| Un dashboard Power BI pour analyser la valeur marchande des joueurs de football.                        | **Power BI, DAX**        |
+| **[Dashboard d'Analyse du Catalogue Netflix][1]**  | Un dashboard interactif complet sur Tableau pour explorer les tendances du catalogue Netflix.           | **Tableau**              |
 | **[Analyse des Ventes de Jeux Vidéo][3]**          | Analyse exploratoire avec Python pour extraire des tendances via des visualisations dans un Jupyter Notebook. | **Python, Pandas, Seaborn**|
 
-[1]: https://github.com/J-WU1/Analyse_Netflix_Tableau
-[2]: https://github.com/J-WU1/Analyse-Football-PowerBI
+[1]: https://github.com/J-WU1/Analyse-Football-PowerBI
+[2]: https://github.com/J-WU1/Analyse_Netflix_Tableau
 [3]: https://github.com/J-WU1/Analyse_Ventes_JeuxVideo_Python
 
 ---
