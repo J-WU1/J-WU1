@@ -5,7 +5,7 @@
 I am currently an Engineering Student at **ECE Paris** and I work as an **Apprentice Data Consultant at TVH Consulting**.
 I specialize in the **Microsoft Ecosystem**, designing and implementing end-to-end analytics solutions using **Microsoft Fabric** (Data Factory, Synapse, OneLake), **Power BI** and **Azure**.
 
-My background in operations management has given me a strong business acument, which I now combine with technical expertise to turn raw data into actionable insights.
+My background in operations management has given me a strong business acumen, which I now combine with technical expertise to turn raw data into actionable insights.
 
 🎯 **Current Goal:** I am seeking a **3 to 4-month International Internship** (Data Engineering / Data Science) starting in **May 2026**.
 
@@ -18,7 +18,7 @@ My background in operations management has given me a strong business acument, w
 | **Microsoft Fabric & Cloud** | **Fabric** (Data Factory, Synapse, OneLake), **Power BI** (Advanced DAX), **Azure** (Data Lake, SQL DB) |
 | **Data Engineering** | **Python** (Pandas, PySpark, NumPy), **SQL**, ETL/ELT Pipelines, Medallion Architecture |
 | **Data Science** | Jupyter Notebooks, Scikit-Learn, Seaborn, Matplotlib |
-| **Tools & Versioning** | Git, GitHub, CI/CD Concepts |
+| **Tools & Versioning** | Git, GitHub |
 
 ---
 
@@ -36,14 +36,15 @@ Here is a selection of projects demonstrating my ability to cover the full data 
 
 ---
 
+## 💼 Professional Experience
+*   **Apprentice Data Consultant at TVH Consulting** (Nov 2025 - Present)
+    *   Implementing **Medallion Architecture** using Lakehouse & Warehouse strategies.
+    *   Building ETL pipelines with **Dataflow Gen2** & **Spark Notebooks**.
+    *   Designing Semantic Models for client reporting.
+
 ## 🏆 Certifications
 *   **Microsoft DP-600:** Fabric Analytics Engineer Associate *(In Preparation)*
 *   **Microsoft DP-700:** Fabric Data Engineer Associate *(In Preparation)*
-
-### 💼 Professional Experience
-*   **Apprentice Data Consultant @ TVH Consulting** (Nov 2025 - Present)
-    *   Implementing Medallion Architecture using Lakehouse & Warehouse.
-    *   Building ETL pipelines with Dataflow Gen2 & Notebooks.
 
 ---
 
@@ -51,10 +52,10 @@ Here is a selection of projects demonstrating my ability to cover the full data 
 
 **Apprenti Consultant Data chez TVH Consulting | Étudiant à l'ECE Paris**
 
-Actuellement en alternance, je construis des solutions de données modernes sur l'écosystème **Microsoft (Fabric, Azure, Power BI)**. Je combine une expertise technique (Architecture Médaillon, Data Engineering) avec une forte compréhension des enjeux business issue de mon expérience en tant que gérant. 
+Actuellement en alternance, je construis des solutions de données modernes sur l'écosystème **Microsoft (Fabric, Azure, Power BI)**. Je combine une expertise technique (Architecture Médaillon, Data Engineering) avec une forte compréhension des enjeux business issue de mon expérience de manager. 
 
 📍 **Recherche Actuelle :**
-Je suis à la recherche d'un **stage à l'international** (USA/Europe) de 3 à 4 mois à partir de **Mai 2026** pour valider mon diplôme d'ingénieur.
+Je suis à la recherche d'un **stage à l'international** (USA/Europe/Asie) de 3 à 4 mois à partir de **Mai 2026** pour valider mon diplôme d'ingénieur.
 
 **Compétences Clés :**
 *   **Data Engineering :** Pipelines ETL/ELT, Spark, SQL, Python.
