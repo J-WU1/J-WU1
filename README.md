@@ -2,33 +2,41 @@
 
 ### 🚀 Apprentice Data Consultant | Future Engineer | Microsoft Fabric Enthusiast
 
-I am an Engineering Student at **ECE Paris** and an **Apprentice Data Consultant at TVH Consulting**.
-I specialize in the **Microsoft Ecosystem**, building end-to-end analytics solutions using **Microsoft Fabric** (Data Factory, Synapse, OneLake) and **Power BI**.
+I am currently an Engineering Student at **ECE Paris** and I work as an **Apprentice Data Consultant at TVH Consulting**.
+I specialize in the **Microsoft Ecosystem**, designing and implementing end-to-end analytics solutions using **Microsoft Fabric** (Data Factory, Synapse, OneLake), **Power BI** and **Azure**.
 
-🎯 **Current Goal:** I am looking for a **3 to 4-month International Internship** (Data Engineering / Data Science) starting **May 2026**.
+My background in operations management has given me a strong business acument, which I now combine with technical expertise to turn raw data into actionable insights.
 
----
-
-### 🛠️ Technical Stack
-
-**Data Engineering & Cloud (Microsoft Focus)**
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Synapse](https://img.shields.io/badge/Synapse_Analytics-0078D4?style=for-the-badge&logo=azure-pipelines&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Data Science & Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+🎯 **Current Goal:** I am seeking a **3 to 4-month International Internship** (Data Engineering / Data Science) starting in **May 2026**.
 
 ---
 
-### 🏆 Certifications
+## 🛠️ Technical Arsenal
+
+| Domain | Stack & Tools |
+| :--- | :--- |
+| **Microsoft Fabric & Cloud** | **Fabric** (Data Factory, Synapse, OneLake), **Power BI** (Advanced DAX), **Azure** (Data Lake, SQL DB) |
+| **Data Engineering** | **Python** (Pandas, PySpark, NumPy), **SQL**, ETL/ELT Pipelines, Medallion Architecture |
+| **Data Science** | Jupyter Notebooks, Scikit-Learn, Seaborn, Matplotlib |
+| **Tools & Versioning** | Git, GitHub, CI/CD Concepts |
+
+---
+
+## 📂 Featured Projects
+
+Here is a selection of projects demonstrating my ability to cover the full data lifecycle, from ingestion to visualization.
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[⚽ Football Market Value Analysis](https://github.com/J-WU1/Votre_Nom_De_Repo_Foot)** | A complete BI project: ETL with Power Query, DAX modeling, and interactive **Power BI** dashboard to predict player values. | **Power BI, DAX, Power Query** |
+| **[🎬 Netflix Catalog Trends](https://github.com/J-WU1/Votre_Nom_De_Repo_Netflix)** | Comprehensive interactive dashboard designed in **Tableau** to explore content trends and streaming patterns. | **Tableau, Data Viz** |
+| **[🐍 Exploratory Data Analysis](https://github.com/J-WU1/Votre_Nom_De_Repo_EDA)** | Deep dive into a dataset using Python libraries to extract statistical trends and correlations. | **Python, Pandas, Seaborn** |
+
+*(Note: Click on the project titles to view the code and dashboards)*
+
+---
+
+## 🏆 Certifications
 *   **Microsoft DP-600:** Fabric Analytics Engineer Associate *(In Preparation)*
 *   **Microsoft DP-700:** Fabric Data Engineer Associate *(In Preparation)*
 
