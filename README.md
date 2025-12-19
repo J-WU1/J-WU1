@@ -1,3 +1,45 @@
+# Hi there, I'm Jacques WU! 👋
+
+### 🚀 Apprentice Data Consultant | Future Engineer | Microsoft Fabric Enthusiast
+
+I am an Engineering Student at **ECE Paris** and an **Apprentice Data Consultant at TVH Consulting**.
+I specialize in the **Microsoft Ecosystem**, building end-to-end analytics solutions using **Microsoft Fabric** (Data Factory, Synapse, OneLake) and **Power BI**.
+
+🎯 **Current Goal:** I am looking for a **3 to 4-month International Internship** (Data Engineering / Data Science) starting **May 2026**.
+
+---
+
+### 🛠️ Technical Stack
+
+**Data Engineering & Cloud (Microsoft Focus)**
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse_Analytics-0078D4?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Data Science & Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### 🏆 Certifications
+*   **Microsoft DP-600:** Fabric Analytics Engineer Associate *(In Preparation)*
+*   **Microsoft DP-700:** Fabric Data Engineer Associate *(In Preparation)*
+
+### 💼 Professional Experience
+*   **Apprentice Data Consultant @ TVH Consulting** (Nov 2025 - Present)
+    *   Implementing Medallion Architecture using Lakehouse & Warehouse.
+    *   Building ETL pipelines with Dataflow Gen2 & Notebooks.
+
+---
+
+### 🇫🇷 Version Française
 # 👋 Bonjour, je suis Jacques WU
 
 Étudiant en ingénierie Data & Intelligence Artificielle à l'ECE Paris, je suis passionné par la manière dont les données peuvent être utilisées pour piloter la performance et éclairer la prise de décision.
