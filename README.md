@@ -29,7 +29,7 @@ Here is a selection of projects demonstrating my ability to cover the full data 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[⚽ Football Market Value Analysis](https://github.com/J-WU1/Football-Market-Value-Analysis)** | A complete BI project: ETL with Power Query, DAX modeling, and interactive **Power BI** dashboard to predict player values. | **Power BI, DAX, Power Query** |
-| **[🎬 Netflix Catalog Trends](https://github.com/J-WU1/Analyse_Netflix_Tableau)** | Comprehensive interactive dashboard designed in **Tableau** to explore content trends and streaming patterns. | **Tableau, Data Viz** |
+| **[🎬 Netflix Catalog Trends](https://github.com/J-WU1/Netflix-Catalog-Analysis)** | Comprehensive interactive dashboard designed in **Tableau** to explore content trends and streaming patterns. | **Tableau, Data Viz** |
 | **[🐍 Exploratory Data Analysis](https://github.com/J-WU1/Analyse_Ventes_JeuxVideo_Python)** | Deep dive into a dataset using Python libraries to extract statistical trends and correlations. | **Python, Pandas, Seaborn** |
 
 *(Note: Click on the project titles to view the code and dashboards)*
