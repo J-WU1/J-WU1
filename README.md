@@ -1,8 +1,8 @@
 # Hi there, I'm Jacques WU! 👋
 
-### 🚀 Apprentice Data Consultant | Future Engineer | Microsoft Fabric Enthusiast
+### 🚀 Data Consultant (Work-Study) | Future Engineer | Microsoft Fabric Enthusiast
 
-I am currently an Engineering Student at **ECE Paris** and I work as an **Apprentice Data Consultant at TVH Consulting**.
+I am currently an Engineering Student at **ECE Paris** and I work as an **Data Consultant (Work-Study) at TVH Consulting**.
 I specialize in the **Microsoft Ecosystem**, designing and implementing end-to-end analytics solutions using **Microsoft Fabric** (Data Factory, Synapse, OneLake), **Power BI** and **Azure**.
 
 My background in operations management has given me a strong business acumen, which I now combine with technical expertise to turn raw data into actionable insights.
@@ -37,7 +37,7 @@ Here is a selection of projects demonstrating my ability to cover the full data 
 ---
 
 ## 💼 Professional Experience
-*   **Apprentice Data Consultant at TVH Consulting** (Nov 2025 - Present)
+*   **Data Consultant (Work-Study) at TVH Consulting** (Nov 2025 - Present)
     *   Implementing **Medallion Architecture** using Lakehouse & Warehouse strategies.
     *   Building ETL pipelines with **Dataflow Gen2** & **Spark Notebooks**.
     *   Designing Semantic Models for client reporting.
