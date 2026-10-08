@@ -1,31 +1,13 @@
-<!-- Header -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jacques%20WU&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20ECE%20Paris%20%7C%20SNCF%20Voyageurs&descSize=18&descAlignY=60&animation=fadeIn"
-  width="100%"
-  alt="Jacques WU - Data & AI Engineer | ECE Paris | SNCF Voyageurs"
-/>
+# Jacques WU
 
-<!-- Typing animation -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9FD9&center=true&vCenter=true&width=650&lines=Data+%26+AI+Engineering+Apprentice+%40+SNCF;Microsoft+Fabric+%7C+Power+BI+%7C+Azure;Deep+Learning+%40+U-Tokyo+Matsuo-Iwasawa+Lab;Trilingual+%F0%9F%87%AB%F0%9F%87%B7+%F0%9F%87%AC%F0%9F%87%A7+%F0%9F%87%A8%F0%9F%87%B3+FR+%7C+EN+%7C+ZH"
-    alt="Typing animation: Data & AI Engineering Apprentice @ SNCF | Microsoft Fabric | Deep Learning @ U-Tokyo"
-  />
-</p>
+### Data & AI Engineering Apprentice · ECE Paris · SNCF Voyageurs
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/wu-jacques">
-    <img src="https://img.shields.io/badge/LinkedIn-Jacques%20WU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Jacques WU" />
-  </a>
-  <img src="https://img.shields.io/badge/ECE%20Paris-Ingénieur%202028-00457C?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="ECE Paris Ingénieur 2028" />
-  <img src="https://img.shields.io/badge/SNCF%20Voyageurs-Data%20Analyst%20RH-CC0000?style=for-the-badge&logo=railway&logoColor=white" alt="SNCF Voyageurs Data Analyst RH" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=J-WU1.J-WU1&style=for-the-badge&color=2c5364" alt="Profile visitors" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacques%20WU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wu-jacques)
+[![ECE Paris](https://img.shields.io/badge/ECE%20Paris-Ingénieur%202028-00457C?style=for-the-badge&logoColor=white)](https://www.ece.fr)
+[![SNCF](https://img.shields.io/badge/SNCF%20Voyageurs-Data%20Analyst%20RH-CC0000?style=for-the-badge&logoColor=white)](https://www.sncf-voyageurs.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=J-WU1.J-WU1&style=for-the-badge)
 
 ---
-
-## About me
 
 I am a **Data & AI Engineering apprentice** at **SNCF Voyageurs**, currently pursuing my Engineering degree at **ECE Paris** — Majeure Data, IA & Cybersécurité (Ing3, class of 2028).
 
@@ -37,16 +19,24 @@ My international path — **France × China × Japan** — gives me a cross-cult
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,git,github,sklearn,tensorflow,jupyter,vscode&perline=8" alt="Tech stack: Python, Azure, Git, GitHub, Scikit-Learn, TensorFlow, Jupyter, VSCode" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 | Domain | Tools |
 | :--- | :--- |
 | **Microsoft Fabric & Cloud** | Fabric (Data Factory, Synapse, OneLake), Power BI (Advanced DAX), Azure (Data Lake, SQL DB) |
-| **Data Engineering** | Python (PySpark, Pandas, NumPy), SQL (dbt), ETL/ELT Pipelines, Medallion Architecture |
-| **Data Science & AI** | Scikit-Learn, TensorFlow, Deep Learning (Matsuo-Iwasawa Lab @ U-Tokyo), Jupyter, Google Colab |
-| **Soft Skills** | Project Management · Cross-cultural Collaboration · Trilingual FR / EN / ZH |
+| **Data Engineering** | Python (PySpark, Pandas, NumPy), SQL (dbt), ETL/ELT, Medallion Architecture (Bronze/Silver/Gold) |
+| **Data Science & AI** | Scikit-Learn, TensorFlow, Deep Learning (Matsuo-Iwasawa Lab @ U-Tokyo), Google Colab |
+| **Languages** | French (native) · English (fluent) · Mandarin (fluent) |
 
 ---
 
@@ -65,33 +55,36 @@ My international path — **France × China × Japan** — gives me a cross-cult
 ```text
 Sep 2026 – Present   │  Apprenti Data Analyst RH                 @  SNCF Voyageurs · Seine-St-Denis
                      │  ↳ Extraction & ingestion des flux RH (SIRH → Station C)
-                     │  ↳ Conformité RGPD & sécurité des données sociales
-                     │  ↳ Dashboards Power BI automatisés (KPIs sociaux & effectifs)
+                     │  ↳ Conformité RGPD & sécurisation des données sociales sensibles
+                     │  ↳ Dashboards Power BI automatisés — KPIs sociaux & effectifs
+                     │  ↳ Définition d'indicateurs de performance pour la direction Voyageurs
                      │
 Sep 2026 – Present   │  Deep Learning Program — GCI World        @  U-Tokyo Matsuo-Iwasawa Lab
                      │  ↳ Fondamentaux du Deep Learning · NumPy · Pandas · Google Colab
                      │  ↳ Modèles de décisions intelligentes pour l'entreprise
                      │
 Apr 2026 – Jul 2026  │  Data Science & Économie Circulaire       @  Université de Zhengzhou 🇨🇳
-                     │  ↳ Projet "Moon Palace Bone" — verres métalliques assistés par l'IA
-                     │  ↳ Concours CICSIC 2026 · Revue de littérature (Science & Nature)
-                     │  ↳ Coordination trilingue FR / EN / ZH entre doctorants et partenaires US
+                     │  ↳ Projet "Moon Palace Bone" — verres métalliques assistés par IA
+                     │  ↳ Module économie circulaire : optimisation du recyclage par IA
+                     │  ↳ Concours CICSIC 2026 · Revue littérature (Science & Nature)
+                     │  ↳ Coordination trilingue entre doctorants chinois & partenaires US
                      │
 Jul 2026             │  Stage Découverte — Écosystème IA & Tech  @  Université de Wenzhou 🇨🇳
                      │  ↳ 17e Séminaire Mondial de la Jeunesse de Wenzhou
-                     │  ↳ Honorary Student Award (élu par promotion de 50+ étudiants)
-                     │  ↳ Représentant de la diaspora franco-chinoise
+                     │  ↳ Honorary Student Award — élu par promotion de 50+ étudiants
+                     │  ↳ Diplomatie culturelle : représentant de la diaspora franco-chinoise
                      │
 Nov 2025 – Jul 2026  │  Apprenti Consultant Data                 @  TVH Consulting · Hybrid
                      │  ↳ Architecture Médaillon (Bronze/Silver/Gold) — Lakehouse & Warehouse
                      │  ↳ Pipelines ETL/ELT : Dataflow Gen2, Mirroring, Spark Notebooks
-                     │  ↳ Semantic Models → Power BI avancé · Documentation technique
+                     │  ↳ Semantic Models → Analytics Endpoints → Power BI avancé
+                     │  ↳ Documentation technique & transfert de compétences clients
                      │
 Aug 2020 – Apr 2025  │  Gérant & Analyste de Données             @  Le Jean Bart · Arras
-                     │  ↳ KPIs, reporting ventes/CA, gestion stocks (3 pers.)
+                     │  ↳ KPIs, reporting ventes/CA, management d'équipe (3 pers.)
                      │  ↳ Google Analytics · Optimisation expérience client
                      │  ↳ Sécurité transactions TPE & données clients
                      │
-Aug 2016 – Jul 2020  │  Serveur Polyvalent & Assistant Opérationnel @ Restaurant OKIWU · Mennecy
-                     │  ↳ Gestion flux de ventes & optimisation stocks
+Aug 2016 – Jul 2020  │  Serveur & Assistant Opérationnel         @  Restaurant Japonais OKIWU · Mennecy
+                     │  ↳ Analyse des flux de ventes & optimisation stocks
                      │  ↳ Relation client A→Z en environnement flux tendu
