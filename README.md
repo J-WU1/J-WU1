@@ -63,7 +63,7 @@ My international path — **France × China × Japan** — gives me a cross-cult
 ## Experience
 
 ```text
-Sep 2026 – Present   │  Apprenti Data Analyst RH                @  SNCF Voyageurs
+Sep 2026 – Present   │  Apprenti Data Analyst RH                 @  SNCF Voyageurs
                      │  Station C · SIRH Data Flows · Power BI · RGPD
                      │
 Sep 2026 – Present   │  Deep Learning Program (GCI World)        @  U-Tokyo Matsuo-Iwasawa Lab
