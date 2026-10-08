@@ -1,12 +1,13 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jacques%20WU&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20ECE%20Paris%20%7C%20SNCF%20Voyageurs&descSize=18&descAlignY=60&animation=fadeIn" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jacques%20WU&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20ECE%20Paris%20%7C%20SNCF%20Voyageurs&descSize=18&descAlignY=60&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jacques%20WU&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20ECE%20Paris%20%7C%20SNCF%20Voyageurs&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header">
+</picture>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9FD9&center=true&vCenter=true&width=600&lines=Data+%26+AI+Engineering+Apprentice;Microsoft+Fabric+%7C+Power+BI+%7C+Azure;Deep+Learning+%40+U-Tokyo+Matsuo-Iwasawa+Lab;Trilingual+%F0%9F%87%AB%F0%9F%87%B7+%F0%9F%87%AC%F0%9F%87%A7+%F0%9F%87%A8%F0%9F%87%B3+%E2%80%94+FR+%7C+EN+%7C+ZH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9FD9&center=true&vCenter=true&width=650&lines=Data+%26+AI+Engineering+Apprentice+%40+SNCF;Microsoft+Fabric+%7C+Power+BI+%7C+Azure;Deep+Learning+%40+U-Tokyo+Matsuo-Iwasawa+Lab;Trilingual+%F0%9F%87%AB%F0%9F%87%B7+%F0%9F%87%AC%F0%9F%87%A7+%F0%9F%87%A8%F0%9F%87%B3+FR+%7C+EN+%7C+ZH" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,8 +16,8 @@
   <a href="https://www.linkedin.com/in/wu-jacques">
     <img src="https://img.shields.io/badge/LinkedIn-Jacques%20WU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/ECE%20Paris-Ing%C3%A9nieur%202028-00457C?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNCF%20Voyageurs-Data%20Analyst%20RH-CC0000?style=for-the-badge&logo=train&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECE%20Paris-Ing%C3%A9nieur%202028-00457C?style=for-the-badge&logo=graduationcap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNCF%20Voyageurs-Data%20Analyst%20RH-CC0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=J-WU1.J-WU1&style=for-the-badge&color=2c5364" />
 </p>
 
@@ -24,11 +25,11 @@
 
 ## About me
 
-I am a **Data & AI Engineering apprentice** at **SNCF Voyageurs**, currently pursuing my Engineering degree at **ECE Paris** (Data, AI & Cybersecurity).
+I am a **Data & AI Engineering apprentice** at **SNCF Voyageurs**, currently pursuing my Engineering degree at **ECE Paris** (Data, AI & Cybersecurity — Ing3, class of 2028).
 
 I build end-to-end data solutions — from raw ingestion to strategic dashboards — with a strong focus on the **Microsoft Fabric ecosystem**. My 5 years of operational management experience taught me one thing: **data only has value when it solves a real business problem.**
 
-My international path (China × Japan × France) gives me a cross-cultural perspective on AI innovation and data strategy.
+My international path — **France × China × Japan** — gives me a cross-cultural perspective on AI innovation and data strategy.
 
 ---
 
@@ -36,15 +37,15 @@ My international path (China × Japan × France) gives me a cross-cultural persp
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,azure,docker,git,github,sklearn,tensorflow,jupyter&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,azure,git,github,sklearn,tensorflow,jupyter,vscode&perline=8" />
   </a>
 </p>
 
 | Domain | Tools |
 | :--- | :--- |
 | **Microsoft Fabric & Cloud** | Fabric (Data Factory, Synapse, OneLake), Power BI (Advanced DAX), Azure (Data Lake, SQL DB) |
-| **Data Engineering** | Python (PySpark, Pandas, NumPy), SQL, ETL/ELT Pipelines, Medallion Architecture |
-| **Data Science & AI** | Scikit-Learn, TensorFlow, Jupyter, Deep Learning (Matsuo-Iwasawa Lab) |
+| **Data Engineering** | Python (PySpark, Pandas, NumPy), SQL, ETL/ELT Pipelines, Medallion Architecture (Bronze/Silver/Gold) |
+| **Data Science & AI** | Scikit-Learn, TensorFlow, Deep Learning (Matsuo-Iwasawa Lab @ U-Tokyo), Jupyter |
 | **Languages** | French (native) · English (fluent) · Mandarin (fluent) |
 
 ---
@@ -59,12 +60,23 @@ My international path (China × Japan × France) gives me a cross-cultural persp
 
 ---
 
-## Experience Timeline
+## Experience
 
 ```text
-Sep 2026 – Present  │ Apprenti Data Analyst RH         @ SNCF Voyageurs
-Sep 2026 – Present  │ Deep Learning Program            @ U-Tokyo Matsuo-Iwasawa Lab (GCI World)
-Apr 2026 – Jul 2026 │ Research Intern – Data Science   @ Zhengzhou University (AI × Circular Economy)
-Jul 2026            │ AI & Tech Discovery Internship   @ Wenzhou University · Honorary Student Award
-Nov 2025 – Jul 2026 │ Apprenti Consultant Data         @ TVH Consulting (Microsoft Fabric)
-Aug 2020 – Apr 2025 │ Manager & Data Analyst           @ Le Jean Bart
+Sep 2026 – Present   │  Apprenti Data Analyst RH                @  SNCF Voyageurs
+                     │  Station C · SIRH Data Flows · Power BI · RGPD
+                     │
+Sep 2026 – Present   │  Deep Learning Program (GCI World)        @  U-Tokyo Matsuo-Iwasawa Lab
+                     │  Python avancé · NumPy · Pandas · Decision Models
+                     │
+Apr 2026 – Jul 2026  │  Data Science & Économie Circulaire       @  Université de Zhengzhou 🇨🇳
+                     │  Projet "Moon Palace Bone" · CICSIC 2026 · Trilingual coordination
+                     │
+Jul 2026             │  Stage Découverte IA & Tech               @  Université de Wenzhou 🇨🇳
+                     │  17e Séminaire Mondial · Honorary Student Award
+                     │
+Nov 2025 – Jul 2026  │  Apprenti Consultant Data                 @  TVH Consulting
+                     │  Microsoft Fabric · Medallion Architecture · Dataflow Gen2
+                     │
+Aug 2020 – Apr 2025  │  Gérant & Analyste de Données             @  Le Jean Bart
+                     │  KPIs · Reporting · Team Management (3 pers.)
